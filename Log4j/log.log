@@ -1,0 +1,249 @@
+2017-07-27 15:17:28 INFO  WebFunction:57 - Firefox browser invoked
+2017-07-27 15:18:42 INFO  WebFunction:57 - Firefox browser invoked
+2017-07-27 15:18:50 INFO  WebFunction:114 - Open the infog home page
+2017-07-27 15:18:51 INFO  WebFunction:137 - View the full screen
+2017-07-27 15:18:51 INFO  WebFunction:175 - Element clicked
+2017-07-27 15:18:52 INFO  WebFunction:278 - Type in text field:babu2@babu.com
+2017-07-27 15:18:52 INFO  WebFunction:278 - Type in text field:123
+2017-07-27 15:18:53 INFO  WebFunction:421 - Click on signIn button
+2017-07-27 15:19:02 INFO  WebFunction:437 - Login Successfully
+2017-07-27 15:19:02 INFO  WebFunction:175 - Element clicked
+2017-07-27 15:19:04 INFO  WebFunction:175 - Element clicked
+2017-07-27 15:19:08 INFO  WebFunction:175 - Element clicked
+2017-07-27 15:19:09 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:19:10 INFO  WebFunction:1230 - Selected name isSundry Debtors
+2017-07-27 15:19:11 INFO  WebFunction:278 - Type in text field:Preethi
+2017-07-27 15:19:12 INFO  WebFunction:278 - Type in text field:Technologies
+2017-07-27 15:19:12 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:19:15 INFO  WebFunction:1230 - Selected name isBricks
+2017-07-27 15:19:16 INFO  WebFunction:278 - Type in text field:manoj@gnts.in
+2017-07-27 15:19:16 INFO  WebFunction:278 - Type in text field:9834312346
+2017-07-27 15:19:17 INFO  WebFunction:278 - Type in text field:gnts
+2017-07-27 15:19:17 INFO  WebFunction:278 - Type in text field:Tester
+2017-07-27 15:19:18 INFO  WebFunction:278 - Type in text field:facebook
+2017-07-27 15:19:18 INFO  WebFunction:278 - Type in text field:1000
+2017-07-27 15:19:19 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:19:26 INFO  WebFunction:1230 - Selected name isIndia
+2017-07-27 15:19:26 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:19:38 INFO  WebFunction:1230 - Selected name isTamil Nadu (TN)
+2017-07-27 15:19:41 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:20:30 INFO  WebFunction:1230 - Selected name isSrivilliputhur
+2017-07-27 15:20:31 INFO  WebFunction:278 - Type in text field:626123
+2017-07-27 15:20:33 INFO  WebFunction:278 - Type in text field:121,east street
+2017-07-27 15:20:34 INFO  WebFunction:278 - Type in text field:22
+2017-07-27 15:20:35 INFO  WebFunction:278 - Type in text field:632278
+2017-07-27 15:20:36 INFO  WebFunction:1222 - Click on dropdown
+2017-07-27 15:22:13 INFO  WebFunction:1230 - Selected name iscash
+2017-07-27 15:22:14 INFO  WebFunction:1257 - Click on ledger save button
+2017-07-27 15:22:37 INFO  WebFunction:1324 - View the ledger:Preethi
+2017-07-27 15:23:28 ERROR WebFunction:1277 - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 50.06 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: ed183287-68fe-460f-ba28-a5904def9948
+2017-07-27 15:51:52 INFO  WebFunction:58 - Firefox browser invoked
+2017-07-27 15:51:57 INFO  WebFunction:115 - Open the infog home page
+2017-07-27 15:51:58 INFO  WebFunction:138 - View the full screen
+2017-07-27 15:51:58 INFO  WebFunction:176 - Element clicked
+2017-07-27 15:51:59 INFO  WebFunction:279 - Type in text field:babu2@babu.com
+2017-07-27 15:51:59 INFO  WebFunction:279 - Type in text field:123
+2017-07-27 15:52:00 INFO  WebFunction:422 - Click on signIn button
+2017-07-27 15:52:03 INFO  WebFunction:438 - Login Successfully
+2017-07-27 15:52:08 INFO  WebFunction:176 - Element clicked
+2017-07-27 15:52:10 INFO  WebFunction:176 - Element clicked
+2017-07-27 15:52:14 INFO  WebFunction:176 - Element clicked
+2017-07-27 15:52:14 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:52:17 INFO  WebFunction:1231 - Selected name isSundry Debtors
+2017-07-27 15:52:17 INFO  WebFunction:279 - Type in text field:Preethi
+2017-07-27 15:52:18 INFO  WebFunction:279 - Type in text field:Technologies
+2017-07-27 15:52:19 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:52:22 INFO  WebFunction:1231 - Selected name isBricks
+2017-07-27 15:52:23 INFO  WebFunction:279 - Type in text field:manoj@gnts.in
+2017-07-27 15:52:23 INFO  WebFunction:279 - Type in text field:9834312346
+2017-07-27 15:52:24 INFO  WebFunction:279 - Type in text field:gnts
+2017-07-27 15:52:24 INFO  WebFunction:279 - Type in text field:Tester
+2017-07-27 15:52:25 INFO  WebFunction:279 - Type in text field:facebook
+2017-07-27 15:52:25 INFO  WebFunction:279 - Type in text field:1000
+2017-07-27 15:52:26 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:52:33 INFO  WebFunction:1231 - Selected name isIndia
+2017-07-27 15:52:33 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:52:46 INFO  WebFunction:1231 - Selected name isTamil Nadu (TN)
+2017-07-27 15:52:49 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:53:38 INFO  WebFunction:1231 - Selected name isSrivilliputhur
+2017-07-27 15:53:39 INFO  WebFunction:279 - Type in text field:626123
+2017-07-27 15:53:40 INFO  WebFunction:279 - Type in text field:121,east street
+2017-07-27 15:53:41 INFO  WebFunction:279 - Type in text field:22
+2017-07-27 15:53:42 INFO  WebFunction:279 - Type in text field:632278
+2017-07-27 15:53:43 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 15:55:21 INFO  WebFunction:1231 - Selected name iscash
+2017-07-27 15:55:22 INFO  WebFunction:1894 - Page up
+2017-07-27 15:55:23 INFO  WebFunction:1258 - Click on ledger save button
+2017-07-27 15:55:43 INFO  WebFunction:1325 - View the ledger:Preethi
+2017-07-27 15:55:43 INFO  WebFunction:1894 - Page up
+2017-07-27 15:56:34 ERROR WebFunction:1278 - Element is not currently visible and so may not be interacted with
+Command duration or timeout: 50.06 seconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 3bdeba91-2d9d-4f7b-838f-fb683ef05552
+2017-07-27 16:18:45 INFO  WebFunction:58 - Firefox browser invoked
+2017-07-27 16:18:52 INFO  WebFunction:115 - Open the infog home page
+2017-07-27 16:18:53 INFO  WebFunction:138 - View the full screen
+2017-07-27 16:18:54 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:18:54 INFO  WebFunction:279 - Type in text field:babu2@babu.com
+2017-07-27 16:18:54 INFO  WebFunction:279 - Type in text field:123
+2017-07-27 16:18:56 INFO  WebFunction:422 - Click on signIn button
+2017-07-27 16:19:02 INFO  WebFunction:438 - Login Successfully
+2017-07-27 16:19:05 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:19:07 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:19:12 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:19:12 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:19:15 INFO  WebFunction:1231 - Selected name isSundry Debtors
+2017-07-27 16:19:15 INFO  WebFunction:279 - Type in text field:Preethi
+2017-07-27 16:19:16 INFO  WebFunction:279 - Type in text field:Technologies
+2017-07-27 16:19:16 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:19:19 INFO  WebFunction:1231 - Selected name isBricks
+2017-07-27 16:19:20 INFO  WebFunction:279 - Type in text field:manoj@gnts.in
+2017-07-27 16:19:20 INFO  WebFunction:279 - Type in text field:9834312346
+2017-07-27 16:19:21 INFO  WebFunction:279 - Type in text field:gnts
+2017-07-27 16:19:22 INFO  WebFunction:279 - Type in text field:Tester
+2017-07-27 16:19:22 INFO  WebFunction:279 - Type in text field:facebook
+2017-07-27 16:19:23 INFO  WebFunction:279 - Type in text field:1000
+2017-07-27 16:19:23 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:19:30 INFO  WebFunction:1231 - Selected name isIndia
+2017-07-27 16:19:31 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:20:12 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:20:51 INFO  WebFunction:279 - Type in text field:626123
+2017-07-27 16:20:52 INFO  WebFunction:279 - Type in text field:121,east street
+2017-07-27 16:20:53 INFO  WebFunction:279 - Type in text field:22
+2017-07-27 16:20:53 INFO  WebFunction:279 - Type in text field:632278
+2017-07-27 16:20:54 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:21:14 INFO  WebFunction:1231 - Selected name iscash
+2017-07-27 16:21:15 INFO  WebFunction:1930 - Page up
+2017-07-27 16:21:15 INFO  WebFunction:1258 - Click on ledger save button
+2017-07-27 16:21:26 INFO  WebFunction:1361 - View the ledger:Preethi
+2017-07-27 16:21:26 INFO  WebFunction:1930 - Page up
+2017-07-27 16:21:27 INFO  WebFunction:1293 - Click on ledger save button
+2017-07-27 16:21:29 INFO  WebFunction:1301 - Updated Successfully
+2017-07-27 16:23:20 INFO  WebFunction:58 - Firefox browser invoked
+2017-07-27 16:23:27 INFO  WebFunction:115 - Open the infog home page
+2017-07-27 16:23:27 INFO  WebFunction:138 - View the full screen
+2017-07-27 16:23:28 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:23:28 INFO  WebFunction:279 - Type in text field:babu2@babu.com
+2017-07-27 16:23:28 INFO  WebFunction:279 - Type in text field:123
+2017-07-27 16:23:29 INFO  WebFunction:422 - Click on signIn button
+2017-07-27 16:23:36 INFO  WebFunction:438 - Login Successfully
+2017-07-27 16:23:37 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:23:40 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:23:47 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:23:48 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:23:51 INFO  WebFunction:1231 - Selected name isSundry Debtors
+2017-07-27 16:23:51 INFO  WebFunction:279 - Type in text field:Preethi
+2017-07-27 16:23:52 INFO  WebFunction:279 - Type in text field:Technologies
+2017-07-27 16:23:53 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:23:56 INFO  WebFunction:1231 - Selected name isBricks
+2017-07-27 16:23:57 INFO  WebFunction:279 - Type in text field:manoj@gnts.in
+2017-07-27 16:23:57 INFO  WebFunction:279 - Type in text field:9834312346
+2017-07-27 16:23:58 INFO  WebFunction:279 - Type in text field:gnts
+2017-07-27 16:23:58 INFO  WebFunction:279 - Type in text field:Tester
+2017-07-27 16:23:59 INFO  WebFunction:279 - Type in text field:facebook
+2017-07-27 16:23:59 INFO  WebFunction:279 - Type in text field:1000
+2017-07-27 16:24:00 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:24:07 INFO  WebFunction:1231 - Selected name isIndia
+2017-07-27 16:24:07 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:24:18 INFO  WebFunction:1231 - Selected name isTamil Nadu (TN)
+2017-07-27 16:24:21 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:25:07 INFO  WebFunction:1231 - Selected name isSrivilliputhur
+2017-07-27 16:25:08 INFO  WebFunction:279 - Type in text field:626123
+2017-07-27 16:25:09 INFO  WebFunction:279 - Type in text field:121,east street
+2017-07-27 16:25:10 INFO  WebFunction:279 - Type in text field:22
+2017-07-27 16:25:11 INFO  WebFunction:279 - Type in text field:632278
+2017-07-27 16:25:11 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:26:40 INFO  WebFunction:1231 - Selected name iscash
+2017-07-27 16:26:41 INFO  WebFunction:1258 - Click on ledger save button
+2017-07-27 16:27:01 INFO  WebFunction:1361 - View the ledger:Preethi
+2017-07-27 16:27:01 ERROR WebFunction:1313 - Element is not clickable at point (1254.5833740234375, 51.68333435058594). Other element would receive the click: <a href="" ns-popover="" ns-popover-custompos="fixed" ns-popover-theme="ns-popover-tooltip-theme" ns-popover-template="tpl/apps/tenants/profile.html" ns-popover-trigger="click" ns-popover-placement="right" ns-popover-close-targets="[&quot;closepopup&quot;]" ns-popover-timeout="-1" autofocus="focus" class="profile-dropdown-toggle pull-right topnavigation-section ng-scope" type="button" aria-haspopup="true" aria-expanded="false"></a>
+Command duration or timeout: 79 milliseconds
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c6f9fefe-9254-4aa4-834f-7895e1e79120
+2017-07-27 16:33:27 INFO  WebFunction:58 - Firefox browser invoked
+2017-07-27 16:33:34 INFO  WebFunction:115 - Open the infog home page
+2017-07-27 16:33:35 INFO  WebFunction:138 - View the full screen
+2017-07-27 16:33:35 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:33:36 INFO  WebFunction:279 - Type in text field:babu2@babu.com
+2017-07-27 16:33:36 INFO  WebFunction:279 - Type in text field:123
+2017-07-27 16:33:36 INFO  WebFunction:422 - Click on signIn button
+2017-07-27 16:33:44 INFO  WebFunction:438 - Login Successfully
+2017-07-27 16:33:44 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:33:46 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:33:50 INFO  WebFunction:176 - Element clicked
+2017-07-27 16:33:51 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:33:53 INFO  WebFunction:1231 - Selected name isSundry Debtors
+2017-07-27 16:33:53 INFO  WebFunction:279 - Type in text field:Preethi
+2017-07-27 16:33:54 INFO  WebFunction:279 - Type in text field:Technologies
+2017-07-27 16:33:54 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:33:58 INFO  WebFunction:1231 - Selected name isBricks
+2017-07-27 16:33:58 INFO  WebFunction:279 - Type in text field:manoj@gnts.in
+2017-07-27 16:33:59 INFO  WebFunction:279 - Type in text field:9834312346
+2017-07-27 16:34:00 INFO  WebFunction:279 - Type in text field:gnts
+2017-07-27 16:34:00 INFO  WebFunction:279 - Type in text field:Tester
+2017-07-27 16:34:01 INFO  WebFunction:279 - Type in text field:facebook
+2017-07-27 16:34:01 INFO  WebFunction:279 - Type in text field:1000
+2017-07-27 16:34:02 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:34:08 INFO  WebFunction:1231 - Selected name isIndia
+2017-07-27 16:34:09 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:34:20 INFO  WebFunction:1231 - Selected name isTamil Nadu (TN)
+2017-07-27 16:34:22 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:35:08 INFO  WebFunction:1231 - Selected name isSrivilliputhur
+2017-07-27 16:35:09 INFO  WebFunction:279 - Type in text field:626123
+2017-07-27 16:35:11 INFO  WebFunction:279 - Type in text field:121,east street
+2017-07-27 16:35:12 INFO  WebFunction:279 - Type in text field:22
+2017-07-27 16:35:13 INFO  WebFunction:279 - Type in text field:632278
+2017-07-27 16:35:14 INFO  WebFunction:1223 - Click on dropdown
+2017-07-27 16:36:43 INFO  WebFunction:1231 - Selected name iscash
+2017-07-27 16:36:44 INFO  WebFunction:1258 - Click on ledger save button
+2017-07-27 16:37:04 INFO  WebFunction:1361 - View the ledger:Preethi
+2017-07-27 16:37:04 INFO  WebFunction:1930 - Page up
+2017-07-27 16:37:04 INFO  WebFunction:1293 - Click on ledger save button
+2017-07-27 20:18:48 INFO  WebFunction:58 - Firefox browser invoked
+2017-07-27 20:18:56 INFO  WebFunction:115 - Open the infog home page
+2017-07-27 20:18:56 INFO  WebFunction:138 - View the full screen
+2017-07-27 20:18:57 INFO  WebFunction:176 - Element clicked
+2017-07-27 20:18:58 INFO  WebFunction:279 - Type in text field:babu2@babu.com
+2017-07-27 20:18:58 INFO  WebFunction:279 - Type in text field:123
+2017-07-27 20:19:03 INFO  WebFunction:247 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b73c6abe-c31e-4a02-b850-ffdcca539669
+2017-07-27 20:19:04 INFO  WebFunction:247 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b73c6abe-c31e-4a02-b850-ffdcca539669
+2017-07-27 20:19:05 INFO  WebFunction:247 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b73c6abe-c31e-4a02-b850-ffdcca539669
+2017-07-27 20:19:06 ERROR WebFunction:344 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b73c6abe-c31e-4a02-b850-ffdcca539669
+2017-07-27 20:19:07 ERROR WebFunction:767 - Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'GNTS-LT-00050', ip: '192.168.1.81', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: driver.version: RemoteWebDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=45.0.1, platform=WINDOWS, nativeEvents=false, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b73c6abe-c31e-4a02-b850-ffdcca539669

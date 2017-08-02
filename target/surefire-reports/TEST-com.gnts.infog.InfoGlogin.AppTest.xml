@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.gnts.infog.InfoGlogin.AppTest" time="0.004" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="maven project"/>
+    <property name="PWD" value="/var/www/html"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH" value="/opt/jdk1.8.0_131/bin:/root/.nvm/versions/node/v5.0.0/bin:/usr/lib64/qt-3.3/bin:/opt/maven/bin:/opt/android-sdk/tools:/opt/android-sdk/platform-tools:/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin"/>
+    <property name="HUDSON_SERVER_COOKIE" value="3c0a5bdcaf6dab06"/>
+    <property name="NVM_NODEJS_ORG_MIRROR" value="https://nodejs.org/dist"/>
+    <property name="NVM_DIR" value="/root/.nvm"/>
+    <property name="POM_ARTIFACTID" value="InfoGlogin"/>
+    <property name="os.name" value="Linux"/>
+    <property name="sun.boot.class.path" value="/opt/jdk1.8.0_131/jre/lib/resources.jar:/opt/jdk1.8.0_131/jre/lib/rt.jar:/opt/jdk1.8.0_131/jre/lib/sunrsasign.jar:/opt/jdk1.8.0_131/jre/lib/jsse.jar:/opt/jdk1.8.0_131/jre/lib/jce.jar:/opt/jdk1.8.0_131/jre/lib/charsets.jar:/opt/jdk1.8.0_131/jre/lib/jfr.jar:/opt/jdk1.8.0_131/jre/classes"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="POM_DISPLAYNAME" value="InfoGlogin"/>
+    <property name="NODE_LABELS" value="Jenkins1"/>
+    <property name="SSH_ASKPASS" value="/usr/libexec/openssh/gnome-ssh-askpass"/>
+    <property name="java.runtime.version" value="1.8.0_131-b11"/>
+    <property name="NVM_BIN" value="/root/.nvm/versions/node/v5.0.0/bin"/>
+    <property name="user.name" value="root"/>
+    <property name="SSH_CONNECTION" value="192.168.1.123 38730 192.168.1.123 22"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="SSH_CLIENT" value="192.168.1.123 38730 22"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="maven project"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://192.168.1.123:8080/job/maven%20project/35/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#35"/>
+    <property name="sun.boot.library.path" value="/opt/jdk1.8.0_131/jre/lib/amd64"/>
+    <property name="NVM_PATH" value="/root/.nvm/versions/node/v5.0.0/lib/node"/>
+    <property name="java.version" value="1.8.0_131"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="Jenkins1"/>
+    <property name="NLSPATH" value="/usr/dt/lib/nls/msg/%L/%N.cat"/>
+    <property name="java.endorsed.dirs" value="/opt/jdk1.8.0_131/jre/lib/endorsed"/>
+    <property name="BUILD_ID" value="35"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="QTLIB" value="/usr/lib64/qt-3.3/lib"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="NVM_IOJS_ORG_MIRROR" value="https://iojs.org/dist"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="US"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.home" value="/opt/jdk1.8.0_131/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="LESSOPEN" value="||/usr/bin/lesspipe.sh %s"/>
+    <property name="os.version" value="2.6.32-696.3.2.el6.x86_64"/>
+    <property name="RUN_DISPLAY_URL" value="http://192.168.1.123:8080/job/maven%20project/35/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.131-b11"/>
+    <property name="JOB_DISPLAY_URL" value="http://192.168.1.123:8080/job/maven%20project/display/redirect"/>
+    <property name="SHLVL" value="1"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="JAVA_HOME" value="/opt/jdk1.8.0_131"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="QTDIR" value="/usr/lib64/qt-3.3"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="LOGNAME" value="root"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="HOME" value="/root"/>
+    <property name="POM_GROUPID" value="com.gnts.infog"/>
+    <property name="G_BROKEN_FILENAMES" value="1"/>
+    <property name="user.home" value="/root"/>
+    <property name="BUILD_TAG" value="jenkins-maven project-35"/>
+    <property name="JENKINS_SERVER_COOKIE" value="3c0a5bdcaf6dab06"/>
+    <property name="HUDSON_URL" value="http://192.168.1.123:8080/"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="NVM_CD_FLAGS" value=""/>
+    <property name="QTINC" value="/usr/lib64/qt-3.3/include"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="/opt/apache-maven-3.3.9"/>
+    <property name="java.class.path" value="/var/www/html/maven33-agent.jar:/opt/apache-maven-3.3.9/boot/plexus-classworlds-2.5.2.jar:/opt/apache-maven-3.3.9/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven33Main /opt/apache-maven-3.3.9 /var/www/html/slave.jar /var/www/html/maven33-interceptor.jar /var/www/html/maven3-interceptor-commons.jar 45841"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PATH+JDK" value="/opt/jdk1.8.0_131/bin"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="/opt/apache-maven-3.3.9"/>
+    <property name="MAIL" value="/var/mail/root"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="HUDSON_HOME" value="/var/lib/jenkins"/>
+    <property name="PATH+MAVEN" value="/opt/apache-maven-3.3.9/bin"/>
+    <property name="BUILD_URL" value="http://192.168.1.123:8080/job/maven%20project/35/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="OLDPWD" value="/root"/>
+    <property name="MANPATH" value="/root/.nvm/versions/node/v5.0.0/share/man:/usr/local/share/man:/usr/share/man/en:/usr/share/man"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.ext.dirs" value="/opt/jdk1.8.0_131/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="user.dir" value="/var/www/html/workspace/maven project"/>
+    <property name="JOB_URL" value="http://192.168.1.123:8080/job/maven%20project/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="MAVEN_HOME" value="/opt/apache-maven-3.3.9"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="35"/>
+    <property name="ANDROID_HOME" value="/opt/android-sdk"/>
+    <property name="JENKINS_URL" value="http://192.168.1.123:8080/"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="LANG" value="en_US.UTF-8"/>
+    <property name="maven3.interceptor" value="/var/www/html/maven33-interceptor.jar"/>
+    <property name="CVS_RSH" value="ssh"/>
+    <property name="WORKSPACE" value="/var/www/html/workspace/maven project"/>
+    <property name="maven3.interceptor.common" value="/var/www/html/maven3-interceptor-commons.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="USER" value="root"/>
+    <property name="XFILESEARCHPATH" value="/usr/dt/app-defaults/%L/Dt"/>
+  </properties>
+  <testcase classname="com.gnts.infog.InfoGlogin.AppTest" name="testApp" time="0.004"/>
+</testsuite>
